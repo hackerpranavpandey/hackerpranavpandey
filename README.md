@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Machine Learning, Deep Learning focusing Computer Vision, Stable Diffusion Models and LLMs.Also am good at Web Development and Competitive Coding.I enjoy integrating software development and LLMs.
+- 🔭 I’m currently working on ... Machine Learning, Deep Learning focusing Computer Vision, Stable Diffusion Models and LLMs.Also am good at Web Development and Competitive Coding.I enjoy integrating software development and LLMs.I worked on some of financial analysis projects using ML.
 - 🌱 I’m currently learning ... LLMs and stable Diffusion techniques.
 - 👯 I’m looking to collaborate on ...  implemetation of LLM and software development in industry projects.
 - 🤔 I’m looking for help with ...
