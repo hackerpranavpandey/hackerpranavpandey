@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Web Development and Competitive Coding.I enjoy integrating software development and LLMs.I worked on some of financial analysis projects using ML.
-- 🌱 I’m currently learning ... LLMs and stable Diffusion techniques.
-- 👯 I’m looking to collaborate on ...  implemetation of LLM and software development in industry projects.
+- 🔭 I’m currently working on ... Web Development,Competitive Coding and Cloud Computing .I enjoy Software development and Machine Learning.
+- 🌱 I’m currently learning ... Node.JS and Go Lang
+- 👯 I’m looking to collaborate on ...  Software Development Projects and Cloud Technologies.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... ML, DL, LLMs and Competitive Coding.
+- 💬 Ask me about ... C++, Competitive Coding, Web Development and Cloud Technology.
 - 📫 How to reach me: ... mail me at- 220010043@iitdh.ac.in or reach out to me at https://linkedin.com/in/pranav-kumar-pandey-001388250 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
