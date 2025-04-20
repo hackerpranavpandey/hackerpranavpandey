@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Competitive Coding , Deep Learning , LLMs and Agentic AI.I enjoy Software development and Machine Learning.
+- 🔭 I’m currently working on ... Competitive Coding , Deep Learning , LLMs and Agentic AI. I enjoy Software development and Machine Learning.
 - 🌱 I’m currently learning ... LLMs, Agentic Ai based Applications.
 - 👯 I’m looking to collaborate on ...  Software Development Projects and Cloud Technologies.
 - 🤔 I’m looking for help with ...
